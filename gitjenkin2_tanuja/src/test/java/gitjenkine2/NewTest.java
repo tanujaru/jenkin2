@@ -21,7 +21,7 @@ public class NewTest {
 			WebDriver driver= new ChromeDriver();
 			driver.get("https://www.ndtv.com/");
 			System.out.println("**********tanuja******************");
-			Thread.sleep(2000);
+			Thread.sleep(4000);
 		  
 	  }
 }
