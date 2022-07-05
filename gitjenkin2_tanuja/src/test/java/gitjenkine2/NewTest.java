@@ -20,6 +20,7 @@ public class NewTest {
 		  System.setProperty("webdriver.chrome.driver", "C:\\Tanuja\\installer\\selenium\\chromedriver_win32\\chromedriver.exe");
 			WebDriver driver= new ChromeDriver();
 			driver.get("https://www.ndtv.com/");
+			System.out.println("**********tanuja******************");
 			Thread.sleep(2000);
 		  
 	  }
